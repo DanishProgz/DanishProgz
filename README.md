@@ -27,6 +27,5 @@ I enjoy building systems that combine hardware and software, from writing custom
 
 ## Connect
 - Upwork: [Profile](https://www.upwork.com/freelancers/~01478003fabd6ee415)  
-- LinkedIn: [Your Profile](your-link-here)  
-- GitHub: [DanishProgz](https://github.com/DanishProgz)  
+- LinkedIn: [Your Profile](your-link-here)    
 # DanishProgz
